@@ -1,0 +1,3 @@
+﻿  App.cpp
+c:\users\gilli\desktop\ridersoffortune\app\app\app.cpp(249): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  App.vcxproj -> C:\Users\gilli\Desktop\RidersOfFortune\App\Debug\App.exe
